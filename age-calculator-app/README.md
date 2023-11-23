@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://wilsontestoni.github.io/frontendmentor_challenges/age-calculator-app/](Age calculator app)
+- Live Site URL: [Add solution URL here](https://wilsontestoni.github.io/frontendmentor_challenges/age-calculator-app/)
 
 ### Built with
 
