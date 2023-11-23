@@ -10,7 +10,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [[https://github.com/wilsontestoni/four-card-feature-section](https://github.com/wilsontestoni/frontendmentor_challenges/tree/main/four-card-feature-section)
+- Solution URL: [https://github.com/wilsontestoni/four-card-feature-section](https://github.com/wilsontestoni/frontendmentor_challenges/tree/main/four-card-feature-section)
 - Live Site URL: [https://wilsontestoni.github.io/frontendmentor_challenges/four-card-feature-section/](https://wilsontestoni.github.io/frontendmentor_challenges/four-card-feature-section/)
 
 ### Built with
